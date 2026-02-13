@@ -1,6 +1,5 @@
 # Config file to test the performance of a random AlexNet on a subset of ImageNet.
 
-
 data_folder: "/home/kind_boyd/workdir/data_td3/subset_imagenet"
 labels_file: "/home/kind_boyd/workdir/data_td3/imagenet_labels.txt"
 
